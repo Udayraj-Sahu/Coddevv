@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Coddevv
 - 👀 I’m interested in Coding and development
-- 🌱 I’m currently learning C language and Web development
+- 🌱 I’m currently learning Java language and Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email udayrajsahu123@gmail.com and by instagram uday_raj_sahu_03 
 
